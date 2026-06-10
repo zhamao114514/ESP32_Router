@@ -2,6 +2,8 @@
  ESP32-S3 实现校园网多设备共享上网,通过热点绕过校园网多用户检测(非破解校园网)，使用MAC克隆 + 自动Portal认证。
  
  程序由ai编写
+
+ 详细配置方法https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=8e5471ffd5d7
  ## 功能
  - STA连接校园网，AP开启本地热点
  - MAC伪装绕过单设备登录限制
